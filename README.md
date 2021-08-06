@@ -1,4 +1,9 @@
 ## Hi 👋 i'm visao
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi!!;My+name+is+visaooo.;Welcome+to+my+profile!&center=true&size=27>
+  </a>
+</h1>
 
 <div>
   <a href="https://github.com/visaooo">
@@ -12,7 +17,7 @@
   <img align="right" alt="visao-img" src="https://media.discordapp.net/attachments/567069532913401867/871993898535358524/download20210801164217.png">
 </div>
                                                                                                                               
-<h1 align="center"> Discord Status: </h1>
+<h2 align="center"> Discord Status: </h2>
 <p align="center">
 <a href="https://discord.com/users/343576532066762754">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/343576532066762754.png?">
